@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    background-color:lightgrey;
+    color:blue;
+}
+h1{
+    text-align:center;
+    color:darkblue;
+    background-color: antiquewhite;
+    padding:20px;
+    margin-top:0px;
+}
+
+.image{
+    height:250px;
+    border: orangered solid 5px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.align-mat{
+    text-align:center;
+}
+p{
+    padding: 2px;
+    margin: 20px;
+}
+
+h3{
+    color: red;
+    font-size: 100%;
+}
+.form-data{
+    margin: 20px;
+    padding: 20px;
+    background-color: grey;
+    border-radius: 10px;
+}
+#link-button{
+   background-color: green;
+   color: white;
+   padding: 10px;
+   padding-left: 20px;
+   padding-right: 20px; 
+}
+
+#link-button:hover{
+    background-color: red;
+}
